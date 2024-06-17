@@ -1,9 +1,4 @@
-.esquerda{
-    text-align: left;
-}
 
-.centro{
-    text-align: center;
+.cor-solada{
+    background-color: rgb(5, 167, 113);
 }
-
-.direita{text-align: right;}
